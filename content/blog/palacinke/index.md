@@ -14,7 +14,7 @@ description: "A childhood favorite."
 
 ### Directions
 
-Beat eggs , then add milk and water. Add flour and whisk until there are no lumps. Add a little bit of oil.
+Beat eggs, then add milk and water. Add flour and whisk until there are no lumps. Add a little bit of oil.
 
 Pour in pan like pancake, only allow to spread out thin. Flip over once, let cool.
 
